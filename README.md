@@ -1,6 +1,6 @@
 # Projeto IA - Recomendação de Filmes
 
-Esse projeto foi desenvolvido e executado com os softwares Jupyter Python e Anaconda Python.
+Esse projeto foi desenvolvido e executado com os softwares Jupyter Notebook e Anaconda Python.
 
 O banco de dados utilizado está em: https://files.grouplens.org/datasets/movielens/ml-25m.zip
 
